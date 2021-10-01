@@ -1,2 +1,2 @@
-# Servatafarinan Pwa
+# My best practices
 
