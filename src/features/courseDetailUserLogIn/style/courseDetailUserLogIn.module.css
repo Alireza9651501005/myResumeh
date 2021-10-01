@@ -1,0 +1,76 @@
+.files{
+    content:url(../../../assets/files/files.png);
+    }
+   
+    .chapters{
+    content:url(../../../assets/lesson/lesson.png);
+    }
+    
+    .info{
+    content:url(../../../assets/introduce/introduce.png);
+    }
+    
+    .status{
+    content:url(../../../assets/exam/exam.png);
+    }
+    
+    
+    .font{
+    font-family:'IRANSans';
+    color:black;
+    font-size:small;
+    }    
+    
+    .radiostyle
+    {width:100%;
+    height:76px;
+    margin:auto;
+    display:flex;
+    align-items:flex-end;
+    position:relative;
+    justify-content:center;
+    }
+
+    .postfooter {
+        clear: both;
+    }
+    
+    .label
+    {
+    cursor:pointer;
+    display:flex;
+    z-index:2;
+    width:33%;
+    height:66px;
+    position:relative;
+    align-items:center;
+    justify-content:center;
+    }
+    .label>img
+    {
+    position:absolute;
+    width:25px;
+    top:20;
+    bottom:0;
+    margin:auto;
+    z-index:3;
+    transition:200ms100mscubic-bezier(0.14,-0.08,0.74,1.4);
+    }
+    /* .label::before
+    {
+    content:'';
+    position:absolute;
+    } */
+
+    .input {
+        display: none;
+    }
+
+    .underLine {
+        width:50%;
+        height: 5px;
+        background-color: rgb(28, 58, 153);
+        border-radius: 20px;
+        margin-bottom: 35px;
+        clear: both;
+      }

@@ -1,0 +1,50 @@
+.timeIcon {
+    content: url(../../../assets/time.png);
+    vertical-align: middle; 
+    margin-left: 1px;
+ }
+
+.levelIcon {
+    content: url(../../../assets/level.png);
+    vertical-align: middle; 
+    margin-left: 1px;
+}
+
+.sessionIcon {
+    content: url(../../../assets/session/session.png);
+    vertical-align: middle; 
+    margin-left: 1px;
+    width: 16px;
+    height: 16px;
+}
+
+.line{
+    -webkit-text-decoration-line: line-through; /* Safari */
+     text-decoration-line: line-through; 
+     text-decoration-color: red;
+     color:green
+  }
+
+  .center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+
+
+  .div>img
+  {
+  width:300px;
+  height: auto;
+margin-top: 20px;
+margin-bottom: 20px;
+  }
+
+  .div>p
+  {
+padding: 15px;
+text-align: center;
+  }

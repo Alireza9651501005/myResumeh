@@ -1,0 +1,114 @@
+.container {
+  position: relative;
+  background-color: #fafafa;
+  border-radius: 15px;
+  height: 75px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.verticalcenterright {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  right: -8%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  height: 75px;
+  width: 75px;
+  border-radius: 50%;
+  background-color: #ebedf0;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.verticalcenterrightinner {
+  height: 60px;
+  width: 60px;
+  border-radius: 50%;
+  /* background-color: #6f3492; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+
+
+.verticalcenterleft {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: -8%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  height: 55px;
+  width: 55px;
+  border-radius: 50%;
+  background-color: #ebedf0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.verticalcenterleftinner {
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  /* background-color: #6f3492; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.text{
+    font-family: 'IRanSansFN';
+    color: white;
+    font-size: 15px;
+}
+
+.textperpule{
+    font-family: 'IRanSansFN-bold';
+    /* color: #6f3492; */
+    font-size: 14px;
+    /* display: flex;
+    justify-content: start; */
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    text-align: right;
+    display: block;
+    width: 70%;
+    margin-right: 50px;
+    margin-left: 10px;
+}
+
+.textblack{
+    font-family: 'IRanSansFN';
+    color: black;
+    font-size: 12px;
+    display: flex;
+    justify-content: right;
+    direction: rtl;
+    margin-right: 50px;
+    margin-left: 10px;
+}
+
+.middlediv{    
+    width: 90%;
+    direction: rtl;
+ 
+}
+
+.verticleLine {
+  width:5px;
+  height: 30px;
+  background: white;
+  margin-left: auto; 
+  margin-right: 5px;
+  margin-bottom: -5px;
+ }

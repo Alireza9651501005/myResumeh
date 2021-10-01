@@ -1,0 +1,58 @@
+.textright {
+    font-family: "IRanSansFN";
+    font-size: 14px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    text-align: right;
+    display: block;
+    direction: rtl;
+    color:#200e32
+  }
+  
+  
+  .textleft {
+    font-family: "IRanSansFN";
+    font-size: 12px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    text-align: right;
+    display: block;
+    direction: rtl;
+    color:#200e32
+  }
+  
+  .div>img
+{
+width:300px;
+height: auto;
+margin-top: 20px;
+margin-bottom: 20px;
+}
+
+.div>p
+{
+padding: 15px;
+text-align: center;
+}
+
+
+.centerSpan {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  border-radius: 15px;
+  background-color: #39c2fd;
+  padding: 10px;
+  color: white;
+  font-family: 'IRANSans';
+}
+              
+.moreChance{
+  content: url(../../../../assets/refresh/refresh.png);
+  width: 40px;
+  height: 40px;
+  margin-left: 5px;
+}

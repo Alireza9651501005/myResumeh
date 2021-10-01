@@ -1,0 +1,52 @@
+.phoneIcon {
+    content: url(../../../assets/setting/phone.png);
+    vertical-align: middle; 
+    margin-left: 1px;
+ }
+
+ .passIcon {
+    content: url(../../../assets/setting/lock.png);
+    vertical-align: middle; 
+    margin-left: 1px;
+ }
+
+ .exitIcon {
+    content: url(../../../assets/setting/logOut.png);
+    vertical-align: middle; 
+    margin-left: 1px;
+ }
+
+ .spanStyle{
+     font-family: "IRANSans";
+     margin-right: 5px;
+ }
+
+ .btnStyle{
+    width: 40% ;
+    height: 40px ;
+    border-radius: 15px ;
+    background-color: white ;
+    border:solid 1px #2179ac;
+    margin-bottom: 10px;
+ }
+
+ .p:hover{
+     background-color: grey;
+ }
+
+ .spanStyleError{
+   color: white;
+   font-family: 'IRANSans';
+   position: absolute;
+   right: 15%;
+ }
+ 
+ 
+ .center {
+     margin: 0;
+     position: absolute;
+     top: 5%;
+     left: 50%;
+     -ms-transform: translate(-50%, -50%);
+     transform: translate(-50%, -50%);
+   }

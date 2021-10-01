@@ -1,0 +1,63 @@
+.center {
+  margin: 0;
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.centerSpan {
+  margin: 0;
+  position: absolute;
+  top: 55%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.textright {
+  font-family: "IRanSansFN";
+  font-size: 14px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-align: right;
+  display: block;
+  direction: rtl;
+  color:#8c8692
+}
+
+
+.textleft {
+  font-family: "IRanSansFN";
+  font-size: 12px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-align: right;
+  display: block;
+  direction: rtl;
+  color:#8c8692
+}
+
+.textrightno {
+  font-family: "IRanSansFN";
+  font-size: 14px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-align: right;
+  display: block;
+  direction: rtl;
+  color:#200e32
+}
+
+
+.textleftno {
+  font-family: "IRanSansFN";
+  font-size: 12px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-align: right;
+  display: block;
+  direction: rtl;
+  color:#200e32
+}

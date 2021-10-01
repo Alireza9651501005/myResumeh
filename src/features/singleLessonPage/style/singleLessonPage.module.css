@@ -1,0 +1,90 @@
+.moreChance{
+    content: url(../../../assets/refresh/refresh.png);
+    width: 40px;
+    height: 40px;
+    margin-left: 5px;
+  }
+
+  .centerSpan {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    border-radius: 15px;
+    background-color: #39c2fd;
+    padding: 10px;
+    color: white;
+    font-family: 'IRANSans';
+  }
+
+  .span{
+    font-size: 15px;
+     font-family: 'IRANSansFN';
+     direction: rtl;
+}
+
+.spanwhite{
+  font-size: 15px;
+   font-family: 'IRANSansFN';
+   color: white;
+}
+
+.spanwhitenum{
+  font-size: 10px;
+   font-family: 'IRANSansFN';
+   color: white;
+}
+
+.spanNum{
+  font-size: 12px;
+   font-family: 'IRANSansFN';
+}
+
+.like{
+  /* content: url(../../../assets/heart/heart.png); */
+  content: url(../../../assets/like/like.png);
+ 
+}
+
+.liked{
+  /* content: url(../../../assets/heart/heart.png); */
+  content: url(../../../assets/like/liked.png);
+ 
+}
+
+.comment{
+  content: url(../../../assets/comment/comment.png);
+  
+}
+
+.interactive{
+  content: url(../../../assets/interactive/interactive.png);
+}
+
+.view{
+  content: url(../../../assets/view/view.png);
+}
+
+.videoedu{
+  content: url(../../../assets/comment/video_edu.png);
+}
+
+.rate{
+  content: url(../../../assets/comment/rate.png);
+}
+
+.footer{
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+
+.header{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+}

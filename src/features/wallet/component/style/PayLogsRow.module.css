@@ -1,0 +1,26 @@
+.text {
+  font-family: "IRanSansFN";
+  font-size: 12px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-align: center;
+  display: block;
+  direction: rtl;
+  color: #200e32;
+}
+
+.maingray {
+  display: flex;
+  align-items: center;
+  height: auto;
+  padding: 15px 10px;
+  background-color: #e4e4ea;
+}
+
+.mainblue {
+    display: flex;
+    align-items: center;
+    height: auto;
+    padding: 15px 10px;
+    background-color: #c4daea;
+  }

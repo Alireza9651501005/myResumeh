@@ -1,0 +1,17 @@
+.nocomment {
+  content: url(../../../../assets/nocomment/comment.png);
+}
+
+.margin{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    font-family:'IRANSansFN';
+}
+
+.btn{
+    background-color: #39c2fd;
+    color: white;
+    padding: 10px 30px 10px 30px;
+    border-radius: 15px;
+    border-width: 0px;
+}

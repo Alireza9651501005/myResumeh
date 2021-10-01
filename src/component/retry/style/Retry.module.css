@@ -1,0 +1,8 @@
+.retryImg{
+    content: url(../../../assets/refresh/refresh.png);
+    position: fixed; /* or absolute */
+    width: 40px;
+    height: 40px;
+    top: 80%;
+    left: 45%;
+}

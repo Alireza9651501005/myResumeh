@@ -1,0 +1,51 @@
+.infoStyle{
+height: 70vh;
+background-image: linear-gradient(#232a47, #2a346a,#3847a0,#3847a0);
+margin: 10px 30px 10px 30px;
+border-radius: 15px
+}
+.editIcon {
+content: url(../../../assets/profile/edit_profile.png);
+vertical-align: middle; 
+margin-left: 5px;
+width: 14px;
+height: 14px;
+}
+
+.settingIcon {
+content: url(../../../assets/profile/setting.png);
+vertical-align: middle; 
+width: 14px;
+height: 14px;
+}
+
+					
+.center {
+    margin: 0;
+    position: absolute;
+    top: 5%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+
+  .centerSpan {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    border-radius: 15px;
+    background-color: #39c2fd;
+    padding: 10px;
+    color: white;
+    font-family: 'IRANSans';
+  }
+                
+  .moreChance{
+    content: url(../../../assets/refresh/refresh.png);
+    width: 40px;
+    height: 40px;
+    margin-left: 5px;
+  }

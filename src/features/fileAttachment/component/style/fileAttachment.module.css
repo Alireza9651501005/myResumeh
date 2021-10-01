@@ -1,0 +1,51 @@
+
+
+
+.listItem1{
+  
+    min-width: 300px;
+    margin-left: 9px;
+    margin-right: 9px;
+    height: 50px;
+    position: relative;
+    border: 1px solid #7FB3C6;
+    background-color: white;
+    font-family: 'IRANSansFN';
+    font-size: 10px;
+    margin-top: 10px;
+    color:black;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    direction: rtl;
+}
+
+
+.img{
+    /* content: url(../../../assets/interactive/interactive.png); */
+    height: 35px;
+    width: auto;    
+}
+.myProgress {
+    width: 20%;
+    border-top-right-radius:20px;
+    border-bottom-right-radius:20px;
+
+  }
+
+.headDiv{
+    width: 100%;
+    padding: 15px;
+    min-width: 220px;
+   /* width: 220px; */
+    overflow: auto;
+}
+
+.download {
+    content: url(../../../../assets/download.png);
+    vertical-align: middle; 
+    margin-left: 1px;
+    width: 20px;
+    height: 20px;
+}

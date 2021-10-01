@@ -1,0 +1,29 @@
+.checked {
+    color: orange;
+  }
+
+  .outer {display:table;}
+  .middle {display:table-row;}
+  .inner {display:table-cell;width: 5%;}
+
+  .vl {
+    border-left: 1px solid white;
+    height: 50px;
+    
+  }
+
+  .infoStyle{
+    background-image: linear-gradient(#232a47, #2a346a,#3847a0,#3847a0);
+    border-radius: 15px
+    }
+
+    .CoursesList {
+      flex-wrap: nowrap;
+      overflow-y: hidden;
+      overflow-x: auto;
+      white-space: nowrap;
+      /* justify-content: space-between; */
+      width: 100%;
+      margin: 0 auto 9px auto;
+      display: flex;
+    }

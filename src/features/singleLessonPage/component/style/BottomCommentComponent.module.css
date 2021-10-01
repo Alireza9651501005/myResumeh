@@ -1,0 +1,20 @@
+.img{
+    content: url(../../../../assets/alias_focused.png);
+}
+
+.spanblue{
+   font-family: 'IRANSansFN';
+   font-size: 13px;
+}
+
+
+.input{
+    font-size: 13px;
+     font-family: 'IRANSansFN';
+     margin-right:4px;
+     color: white;
+     background-color: '#232a47';
+     width: 100%;
+     border: none;
+     outline: none;
+}

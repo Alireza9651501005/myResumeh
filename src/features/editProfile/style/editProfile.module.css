@@ -1,0 +1,159 @@
+.centerImg {
+    height: 100px;
+    width: 100px;
+    margin: 0;
+    position: absolute;
+    top: 120px;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    border-radius:100%;
+    border:solid 2px #a1c4cf;
+  }
+
+  .centerCameraBtn {
+    height: 40px;
+    width: 40px;
+    margin: 0;
+    position: absolute;
+    overflow: hidden;
+    top: 150px;
+    left: 55%;
+    -ms-transform: translate(-40%, -50%);
+    transform: translate(-40%, -50%);
+    border-radius:100%;
+    border:solid 2px #a1c4cf;
+    background: url(../../../assets/uploadImage/camera.png) no-repeat center ; 
+    background-color: #c8e2ec;
+  }
+
+  .hiddenFileInput > input{
+    height: 100%;
+    width: 100;
+    opacity: 0;
+    cursor: pointer;
+  }
+  .hiddenFileInput{
+    border: 1px solid #ccc;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    overflow: hidden;
+    cursor: pointer;
+    
+    /*for the background, optional*/
+    background: center center no-repeat;
+    background-size: 75% 75%;
+    background: url(../../../assets/uploadImage/camera.png) no-repeat center ; 
+    }
+
+  .inputStyle{
+      background-color: white;
+      font-family: "IRANSansFN";
+      border-radius: 20px;
+      outline: none;
+      border:solid 2px #a1c4cf;
+      direction: rtl;
+      position: absolute;
+      right: 15%;
+      width: 70%;
+      height: 40px;
+      padding-right:10px;
+      padding-left:10px
+  }
+
+  .inputStyleInlineRight{
+    background-color: white;
+    font-family: "IRANSansFN";
+    border-radius: 20px;
+    outline: none;
+    border:solid 2px #a1c4cf;
+    direction: rtl;
+    position: absolute;
+    right: 15%;
+    width: 30%;
+    height: 40px;
+    padding-right:10px;
+    padding-left:10px;
+}
+              
+.inputStyleInlineLeft{
+  background-color: white;
+  font-family: "IRANSansFN";
+  border-radius: 20px;
+  outline: none;
+  border:solid 2px #a1c4cf;
+  direction: rtl;
+  position: absolute;
+  left: 15%;
+  width: 30%;
+  height: 40px;
+  padding-right:10px;
+  padding-left:10px;
+}
+
+  .spanStyle{
+    color: black;
+    font-family: 'IRANSansFN';
+    position: absolute;
+    right: 15% ;
+  }
+
+  .spanStyleLeft{
+    color: black;
+    font-family: 'IRANSansFN';
+    position: absolute;
+    left: 37% ;
+  }
+
+  .divStyle{
+    width: 100%;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 130px;
+    
+  }
+
+
+  .center {
+    margin: 0;
+    position: absolute;
+    top: 3%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+
+  .spanMsgStyle{
+    color: white;
+    font-family: 'IRANSans';
+    position: absolute;
+    padding: 5px;
+    border-radius: 15px;
+    width: auto;
+    height: auto;
+  }
+  
+
+  .centerSpan {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    border-radius: 15px;
+    background-color: #39c2fd;
+    padding: 10px;
+    color: white;
+    font-family: 'IRANSans';
+  }
+                
+  .moreChance{
+    content: url(../../../assets/refresh/refresh.png);
+    width: 40px;
+    height: 40px;
+    margin-left: 5px;
+  }
+  
+  

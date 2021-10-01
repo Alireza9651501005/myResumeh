@@ -1,0 +1,73 @@
+.containerWhite {
+  height: auto;
+  width: 100%;
+  background-color: #f5f5fa;
+  border-radius: 15px;
+  padding: 15px;
+  margin-bottom: 10px;
+}
+
+.containerGray {
+    height: auto;
+    width: 100%;
+    background-color: #b9b9c0;
+    border-radius: 15px;
+    padding: 15px;
+    margin-bottom: 10px;
+  }
+  
+
+.img {
+  content: url(../../../../assets/alias_focused.png);
+}
+
+.comment_score {
+  content: url(../../../../assets/score/comment_score.png);
+}
+
+.agree {
+  content: url(../../../../assets/agree/agree.png);
+}
+
+.agreed {
+  content: url(../../../../assets/agree/agree2.png);
+}
+
+.disagree {
+  content: url(../../../../assets/disagree/disagree.png);
+}
+
+.disagreed {
+  content: url(../../../../assets/disagree/disagree2.png);
+}
+
+.reply {
+  content: url(../../../../assets/reply/reply.png);
+}
+
+.span {
+  font-size: 10px;
+  font-family: "IRANSansFN";
+  margin-right: 4px;
+  /* margin-left: 20px; */
+}
+
+.spanDown {
+  font-size: 10px;
+  font-family: "IRANSansFN";
+  margin-right: 4px;
+}
+
+.spanreply {
+  font-size: 12px;
+  font-family: "IRANSansFN";
+  margin-right: 4px;
+  /* margin-left: 20px; */
+}
+
+.spanreplybold {
+  font-size: 12px;
+  font-family: "IRANSansFN-bold";
+  margin-right: 4px;
+  /* margin-left: 20px; */
+}

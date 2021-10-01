@@ -1,0 +1,104 @@
+
+.listItem1{
+  
+    min-width: 300px;
+    margin-left: 9px;
+    margin-right: 9px;
+    height: 70px;
+    position: relative;
+    border: 1px solid #7FB3C6;
+    background-color: white;
+    font-family: 'IRANSansFN';
+    font-size: 10px;
+    margin-top: 10px;
+    color:black;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    direction: rtl;
+}
+
+.img{
+    /* content: url(../../../assets/interactive/interactive.png); */
+    height: 80px;
+    width: 100px;
+    padding: 1px;
+}
+
+.headDiv{
+    /* text-align: center; */
+    width: auto;
+    min-width: 220px;
+   margin-bottom: 10px;
+    overflow: auto;
+}
+
+.eyeIcon {
+    content: url(../../../../assets/eyes/eyes.png);
+    vertical-align: middle; 
+    margin-left: 1px;
+ 
+}
+
+.basketIcon {
+    content: url(../../../../assets/basket/basket@2x.png);
+    vertical-align: middle; 
+    margin-left: 1px;
+    width: 20px;
+    height: 20px;
+}
+
+.myProgress {
+    margin: 5px;
+    width: 5%;
+    border-top-right-radius:15px;
+    border-bottom-right-radius:15px;
+
+  }
+.line{
+    -webkit-text-decoration-line: line-through; /* Safari */
+     text-decoration-line: line-through; 
+     text-decoration-color: red;
+     color:green
+  }
+
+
+  .status {
+    content: url(../../../../assets/statusLesson/statusLesson3.png);
+    /* vertical-align: middle;  */
+    margin-left: 5px;
+    width: 20px;
+    height: 20px;
+}
+
+
+.likes {
+    content: url(../../../../assets/like/like.png);
+    /* vertical-align: middle;  */
+    margin-left: 5px;
+    width: 20px;
+    height: 20px;
+}
+
+
+.comments {
+    content: url(../../../../assets/comment.png);
+    /* vertical-align: middle;  */
+    margin-left: 5px;
+    width: 20px;
+    height: 20px;
+}
+
+
+.time {
+    content: url(../../../../assets/time.png);
+    /* vertical-align: middle;  */
+    margin-left: 5px;
+    width: 20px;
+    height: 20px;
+}
+
+.outer {display:table;}
+.middle {display:table-row;}
+.inner {display:table-cell;}

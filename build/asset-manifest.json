@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a24d09d9.chunk.css",
+    "main.js": "/static/js/main.c0d00bc1.chunk.js",
+    "main.js.map": "/static/js/main.c0d00bc1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e38d20ce.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e38d20ce.js.map",
+    "static/css/2.a452d3e8.chunk.css": "/static/css/2.a452d3e8.chunk.css",
+    "static/js/2.429eb049.chunk.js": "/static/js/2.429eb049.chunk.js",
+    "static/js/2.429eb049.chunk.js.map": "/static/js/2.429eb049.chunk.js.map",
+    "static/js/3.d26a4db9.chunk.js": "/static/js/3.d26a4db9.chunk.js",
+    "static/js/3.d26a4db9.chunk.js.map": "/static/js/3.d26a4db9.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.a452d3e8.chunk.css.map": "/static/css/2.a452d3e8.chunk.css.map",
+    "static/css/main.a24d09d9.chunk.css.map": "/static/css/main.a24d09d9.chunk.css.map",
+    "static/js/2.429eb049.chunk.js.LICENSE.txt": "/static/js/2.429eb049.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/IRANYekanFN-bold.4817f755.ttf",
+    "static/media/changePassword.module.css": "/static/media/authenticationBAckgroundImage.069f0da8.png",
+    "static/media/myCourses.module.css": "/static/media/banner.419a5891.png",
+    "static/media/navStyle.module.css": "/static/media/wallet.22848603.svg",
+    "static/media/home.module.css": "/static/media/home-banner.64943a5c.png",
+    "static/media/singnOutLayout.module.css": "/static/media/imageProfilePageForGuestUser.72e62e7b.png",
+    "static/media/Splash.module.css": "/static/media/splashBackground@3x.5f910169.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e38d20ce.js",
+    "static/css/2.a452d3e8.chunk.css",
+    "static/js/2.429eb049.chunk.js",
+    "static/css/main.a24d09d9.chunk.css",
+    "static/js/main.c0d00bc1.chunk.js"
+  ]
+}

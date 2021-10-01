@@ -1,0 +1,52 @@
+.h{
+  direction: rtl;
+  font-family: 'IRANSansFN';
+}
+.CoursesList {
+  /* flex-wrap: nowrap; */
+	overflow-y: hidden;
+	overflow-x: auto;
+	white-space: nowrap;
+	/* justify-content: space-between; */
+  flex-wrap: wrap;
+  display: flex;
+	width: 100%;
+flex-flow: row-reverse;
+flex-direction: row-reverse;
+}
+
+
+.line{
+  -webkit-text-decoration-line: line-through; /* Safari */
+   text-decoration-line: line-through; 
+   text-decoration-color: red;
+   color:green
+}
+
+.textColor{
+  color :green;
+}
+
+.txtFont{
+  font-family: 'IRANSansFN';
+    font-size: 13px;
+    direction: rtl;
+    text-align: right;
+    /* float: right; */
+}
+
+.txtFont_bold{
+  font-family: 'IRANSansFN-bold';
+    font-size: 13px;
+}
+
+
+/* 
+.margin:last-child
+{
+ margin-left: 15px;
+ color: yellow;
+ /* flex-basis: 100%; */
+
+
+/* .last {margin-left: 0 !important; margin-right: 0 !important;} */

@@ -1,0 +1,52 @@
+					
+.center {
+  margin: 0;
+  position: absolute;
+  top: 5%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+                    
+.spanMsgStyle{
+  color: white;
+  font-family: 'IRANSans';
+  position: absolute;
+  padding: 5px;
+  border-radius: 15px;
+  width: auto;
+  height: auto;
+}
+
+.centerspanMsgStyle {
+  margin: 0;
+  position: absolute;
+  top: 4%;
+  left: 50%;
+  text-align: center;
+  width: auto;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+
+.centerSpan {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  border-radius: 15px;
+  background-color: #39c2fd;
+  padding: 10px;
+  color: white;
+  font-family: 'IRANSans';
+}
+              
+.moreChance{
+  content: url(../../../assets/refresh/refresh.png);
+  width: 40px;
+  height: 40px;
+  margin-left: 5px;
+}

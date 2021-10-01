@@ -1,0 +1,66 @@
+
+
+
+.listItem1{
+    height: auto;
+    overflow: auto;
+    padding-left: 5px;
+    padding-right: 5px;
+    position: relative;
+    font-family: 'IRANSansFN';
+    font-size: 10px;
+    margin-top: 10px;
+    color:black;
+    direction: rtl;
+}
+
+
+.img{
+    /* content: url(../../../assets/interactive/interactive.png); */
+    height: 35px;
+    width: auto;    
+}
+.myProgress {
+  width: 100%;
+  background-color: #76b5e6;
+  border-radius: 20px;
+  margin-bottom: 10px;
+}
+
+.myBar {
+    border-radius: 20px; 
+  height: 10px;
+}
+
+.headDiv{
+ 
+   /* width: 220px; */
+    overflow: auto;
+}
+
+.center1 {
+  margin: 0;
+  position: absolute;
+  margin-top: 70px;
+  left: 50%;
+ 
+}
+					
+.center {
+  margin: 0;
+  position: absolute;
+  top: 5%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+                
+.retryImg{
+  content: url(../../../assets/refresh/refresh_black.png);
+  position: fixed; /* or absolute */
+  width: 40px;
+  height: 40px;
+  top: 60%;
+  left: 45%;
+}
+

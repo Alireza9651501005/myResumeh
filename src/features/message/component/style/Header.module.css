@@ -1,0 +1,14 @@
+.backBtn{
+    content: url(../../../../assets/arrow/whiteArrow.png);
+    width: 20px;
+    height: 20px;
+    margin-left: 10px;
+    float: left;
+}
+
+.deleteBtn{
+    content: url(../../../../assets/delete/delete.png);
+
+    margin-right: 10px;
+    float: right;
+}

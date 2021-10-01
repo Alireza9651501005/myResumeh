@@ -1,0 +1,10 @@
+    .image {
+        /* The image used */
+        background-image: url(../../../../assets/splashBackground/splashBackground@3x.png);
+        text-align: center;
+        position: fixed;
+        min-width: 100%;
+        min-height: 100%;
+        background-size: cover;
+        background-position: center;
+    }

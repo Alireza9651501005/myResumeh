@@ -1,0 +1,73 @@
+.text {
+    font-family: "IRanSansFN-bold";
+    font-size: 15px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    text-align: center;
+    display: block;
+    direction: rtl;
+    color: #200e32;
+  }
+  
+  .textup {
+    font-family: "IRanSansFN-bold";
+    font-size: 18px;
+    direction: rtl;
+    color: #200e32;
+  }
+
+  .main {
+    display: flex;
+    align-items: center;
+    height: auto;
+    padding: 15px 10px;
+    background-color: #e4e4ea;
+  }
+
+  .creedit{
+    background-color: #232a47;
+    height: auto;
+    width: 90%;
+    border-radius: 20px;
+    padding: 20px;
+  }
+
+  .creeditmain {
+    display: flex;
+    align-items: center;
+    height: auto;
+    margin-bottom: 10px;
+
+  }
+
+  .creedittext {
+    font-family: "IRanSansFN";
+    font-size: 20px;
+    color: #fafafa;
+  }
+
+  .creeditcurrency {
+    font-family: "IRanSansFN";
+    font-size: 10px;
+    color: #fafafa;
+  }
+
+
+  .card{
+    content: url(../../../assets/credit/card_chit.png);
+  }
+
+  
+  .logo{
+    content: url(../../../assets/credit/logo.png);
+  }
+
+  .right{
+    display: flex;
+    justify-content: flex-end;
+  }
+
+  .left{
+    display: flex;
+    justify-content: flex-start;
+  }

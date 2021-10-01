@@ -1,0 +1,12 @@
+.rating {
+     color: gold;
+     height: 5px;
+     width: 5px;
+  }
+  .stargold{
+     content: url(../../../../assets/star/star.png);
+  }
+
+  .star{
+   content: url(../../../../assets/star/star_border.png);
+}

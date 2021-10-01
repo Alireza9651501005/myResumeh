@@ -1,0 +1,44 @@
+
+
+.backIcon {
+content: url(../../../assets/arrow/whiteArrow.png);
+vertical-align: middle; 
+width: 14px;
+height: 14px;
+}
+
+.arrowDown{
+content: url(../../../assets/arrowUpAndDown/arrowDown.png);
+}
+
+.arrowTop{
+    content: url(../../../assets/arrowUpAndDown/arrowUp.png);
+}
+
+
+.centerSpan {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    border-radius: 15px;
+    background-color: #39c2fd;
+    padding: 10px;
+    color: white;
+    font-family: 'IRANSans';
+  }
+                
+  .moreChance{
+    content: url(../../../assets/refresh/refresh.png);
+    width: 40px;
+    height: 40px;
+    margin-left: 5px;
+  }
+
+  .all{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

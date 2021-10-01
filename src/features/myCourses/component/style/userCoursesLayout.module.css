@@ -1,0 +1,36 @@
+.mycourseImg {
+    content: url(../../../../assets/mycourses/banner.png);
+    vertical-align: middle; 
+    margin-left: 1px;
+}
+.font{
+    font-family:'IRANSans';
+    color:black;
+    font-size:small;
+    width: auto;
+    height: 40px;
+    padding: 10px;
+    }
+
+.input {
+    display: none;
+}
+.main
+{
+    width:100%;
+    height:auto;
+    margin-bottom: 35px;
+    display:flex;
+
+}
+
+.back{
+    background-color: #39c2fd;
+    color: white;  
+    border-radius: 15px;
+    font-size:small;
+    font-family:'IRANSans';
+    width: auto;
+    height: 40px;
+    padding: 10px;
+}

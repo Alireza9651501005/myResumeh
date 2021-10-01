@@ -1,0 +1,30 @@
+.arrowUp{
+  content: url(../../../assets/arrowUpAndDown/arrowUp.png);
+  margin-left: 10px;
+}
+
+.arrowDown{
+  content: url(../../../assets/arrowUpAndDown/arrowDown.png);
+  margin-left: 10px;
+}
+
+.noscore{
+  content: url(../../../assets/leaderBoard/whenLIstIsEmpty.png);
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.spanbold{
+    text-align: center;
+    font-size: 15px;
+    font-family: 'IRanSansFN-bold';
+    color: #200e32;
+  }
+
+  
+.span{
+  text-align: center;
+  font-size: 15px;
+  font-family: 'IRanSansFN';
+  color: #200e32;
+}

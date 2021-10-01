@@ -1,0 +1,78 @@
+
+.listItem1{
+    width: auto;
+    min-width: 300px;
+    margin-left: 9px;
+    margin-right: 9px;
+    /* width: 100%; */
+    position: relative;
+    /* height: 100px; */
+    background-color: white;
+    font-family: 'IRANSansFN';
+    font-size: 10px;
+    margin-top: 10px;
+    color:black;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    direction: rtl;
+}
+
+.img{
+    /* content: url(../../../assets/interactive/interactive.png); */
+    height: 80px;
+    width: 100px;
+    padding: 1px;
+}
+
+.headDiv{
+    /* text-align: center; */
+    width: auto;
+    min-width: 220px;
+   /* width: 220px; */
+    overflow: auto;
+}
+
+.timeIcon {
+    content: url(../../../../assets/time.png);
+    vertical-align: middle; 
+    margin-left: 1px;
+ }
+
+.levelIcon {
+    content: url(../../../../assets/level.png);
+    vertical-align: middle; 
+    margin-left: 1px;
+}
+
+.sessionIcon {
+    content: url(../../../../assets/session/session.png);
+    vertical-align: middle; 
+    margin-left: 1px;
+    width: 16px;
+    height: 16px;
+}
+
+.searchIcon {
+    content: url(../../../../assets/search.png);
+    vertical-align: middle; 
+    margin-left: 1px;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    right: 5%;
+    top:15%
+}
+
+.line{
+    -webkit-text-decoration-line: line-through; /* Safari */
+     text-decoration-line: line-through; 
+     text-decoration-color: red;
+     color:green
+  }
+
+
+  .outer {display:table;}
+  .middle {display:table-row;}
+  .inner {display:table-cell;}
